@@ -1,0 +1,1 @@
+A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. Playable in the browser with two-player support, responsive layout, and smooth UI. Perfect for learning basic game logic and DOM manipulation.
